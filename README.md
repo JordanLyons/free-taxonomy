@@ -7,7 +7,7 @@ This taxonomy incorporates terms from the Open Eligibility GitHub repo as well a
 
 The original taxonomy had duplicate values of records that can be included in multiple parents. In this taxonomy, each record has only one value and is generally associated with whichever parent had a lower id.
 
-## Licenses
+## Third-Party Licenses
 
 Human Services Taxonomy by Aunt Bertha, Inc. is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 

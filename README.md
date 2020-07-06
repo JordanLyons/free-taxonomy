@@ -1,5 +1,5 @@
 # free-taxonomy
-A human service taxonomy based on Aunt Bertha's Open Eligibility human services taxonomy and the Open Referral Human Services Data Standard.
+A human service taxonomy based on Aunt Bertha's [Open Eligibility human services taxonomy](https://github.com/openreferral/openeligibility) and Open Referral's [Human Services Data Standard](https://github.com/openreferral/specification).
 
 The CSV has fields based on the [taxonomy table in the Human Services Data Standard](http://docs.openreferral.org/en/latest/hsds/reference/#taxonomy), with additional fields corresponding to the [Sarapis's ORServices project](https://github.com/sarapis/orservices).
 

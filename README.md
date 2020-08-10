@@ -9,6 +9,6 @@ The original taxonomy had duplicate values of records that can be included in mu
 
 ## Third-Party Licenses
 
-Human Services Taxonomy by Aunt Bertha, Inc. is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+Human Services Taxonomy by Aunt Bertha, Inc. is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-The Human Services Data Specification and associated documentation are licensed under the Creative Commons Attribution Share-Alike 4.0 license.
+The Human Services Data Specification and associated documentation are licensed under a [Creative Commons Attribution Share-Alike 4.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
